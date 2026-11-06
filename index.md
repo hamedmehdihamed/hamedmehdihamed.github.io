@@ -6,14 +6,6 @@
 I am a Ph.D. student and Graduate Research Assistant in the Department of Computer Science at Colorado State University, working under the supervision of Dr. Indrakshi Ray. My current research focuses on Agentic AI security, access control architectures, and machine learning anomaly detection.
 
 ## Publications
-# Hamed Aghayarzadeh
-**Ph.D. Student in Computer Science**
-*Graduate Research Assistant | Colorado State University*
-
-## About Me
-I am a Ph.D. student and Graduate Research Assistant in the Department of Computer Science at Colorado State University, working under the supervision of Dr. Indrakshi Ray. My current research focuses on Agentic AI security, access control architectures, and machine learning anomaly detection.
-
-## Publications
 
 *   **[Information Flow Control for Retrieval-Augmented LLM Chatbots]**
     MF Rasul, H Aghayarzadeh, I Ray.
@@ -32,8 +24,4 @@ I am a Ph.D. student and Graduate Research Assistant in the Department of Comput
     *IEEE International Conference on Data Mining Workshops (ICDM-W), 2024.*
 
 ## Links
-* [LinkedIn](لینک پروفایل لینکدین شما)
-* [Email](mailto:ایمیل دانشگاهی شما)
-## Links
-* [LinkedIn](لینک پروفایل لینکدین شما)
 * [Email](mailto:hamedi@colostate.edu)
